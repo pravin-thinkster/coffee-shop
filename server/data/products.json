@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "RED BRICK",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. ",
+      "price": 11,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 2,
+      "title": "TODOS SANTOS",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. ",
+      "price": 15,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 3,
+      "title": "RED DE MUJERES",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. ",
+      "price": 13,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 4,
+      "title": "ORTIZ 1900",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. ",
+      "country": "Costa Rica",
+      "price": 15.5,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 5,
+      "title": "ARICHA",
+      "description": "Fresh, juicy and oh so delightful Aricha is an Costa Rican must-taste.",
+      "country": "Costa Rica",
+      "price": 15.5,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 6,
+      "title": "CABALLEROS",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.",
+      "country": "Honduras",
+      "price": 16,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 7,
+      "title": "DECAF ESPRESSO",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. ",
+      "price": 13.5,
+      "currencyFormat": "₹"
+    },
+    {
+      "id": 8,
+      "title": "LA BOLSA",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. ",
+      "price": 13,
+      "currencyFormat": "₹"
+    }
+  ]
+}
